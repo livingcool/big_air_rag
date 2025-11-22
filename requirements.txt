@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+openai
+langchain-community
+langchain-openai
+faiss-cpu
+streamlit
+python-dotenv
+pypdf
+pymupdf
+pillow
+pytesseract
+transformers
+torch
+torchvision
+timm
+google-generativeai
+# Add any other libraries you install
